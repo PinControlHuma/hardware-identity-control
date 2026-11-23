@@ -2,6 +2,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&pause=600&color=00D4FF&center=true&vCenter=true&width=1100&height=125&lines=HWID+SPOOFER+FULL+2026;PREMIUM+HWID+UTILITY;SYSTEM+TOOLS+%7C+DEVICE+CONTROL" alt="HWID Spoofer Full 2026" />
+<img width="923" height="802" alt="image" src="https://github.com/user-attachments/assets/0b90616b-c9c4-453a-bff2-0211a0f87325" />
 
 <br/>
 
